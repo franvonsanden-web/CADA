@@ -1,0 +1,3797 @@
+[{
+  "url": "https://cada.com.uy/",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/",
+    "loadedTime": "2026-02-04T03:45:04.976Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 0,
+    "contentLengthBytes": 10361,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/",
+    "title": "Home | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Home | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:44:56 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10361",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "frontend_lang=es_UY; Path=/;SameSite=None;Secure\nsession_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:44:56 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-bf1ad7d-.jpg?signature=M4Kym6sibbmLvn7WbTdy",
+  "text": "",
+  "markdown": "Home | Centro Acuático y Deportivo Atlántida\n\n[![](/web/image/2382/Colonia2.png)](http://www.cada.com.uy/coloniadeverano)[](http://www.cada.com.uy/)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2382/Colonia2.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2382/Colonia2.png",
+    "depth": 1,
+    "referrerUrl": "https://cada.com.uy/",
+    "loadedTime": "2026-02-04T03:45:10.265Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 250450,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2382/Colonia2.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Colonia2.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-bafd9c4-Colonia2.png?signature=1yxcn4KnCOgF8C0ho52O0"
+},
+{
+  "url": "https://cada.com.uy/historia",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:45:27.366Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 19319,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/historia",
+    "title": "Historia | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Historia | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/historia"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:12 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "19319",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:12 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-93bc264-historia.jpg?signature=1Sq4ULGSmYXKhpxVpZ31r",
+  "text": "Centro Acuático y Deportivo Atlántida\nHistoria de CADA \nTres amigos, un sueño compartido. \nEl Centro Acuático y Deportivo Atlántida (CADA) nació del sueño compartido de tres amigos, guardavidas y profesores de educación física que se conocieron en su etapa de formación.\nUn proyecto que comenzó a gestarse hace más de 30 años y que se hizo realidad el 18 de marzo de 2024, con la fundación de un espacio pensado para transformar la vida de las personas a través del deporte, la salud y la educación.\nHoy, CADA es el primer Centro de actividades acuáticas, deportivas y terapéuticas de Atlántida, creado con el propósito de mejorar la calidad de vida de la comunidad de la Costa de Oro.\nOfrecemos propuestas para todas las edades y familias, integrando programas que promueven el bienestar físico, mental y social en un entorno de confianza, cercanía y profesionalismo.\nInstalaciones \nDiseñado para brindar una experiencia integral, CADA cuenta con infraestructura moderna y funcional, que combina tecnología, confort y naturaleza:\nPiscina semiolímpica de 25 metros, ideal para la enseñanza, el entrenamiento y la competencia.\nPiscina terapéutica climatizada de 9 x 9 metros, especialmente pensada para rehabilitación y programas de salud.\nVestuarios para niños y adultos, cómodos, seguros y equipados para el uso familiar.\nClínica especializada en Fisioterapia, una de las más modernas de la Costa de Oro, con un equipo multidisciplinario y equipamiento de última generación.\nCanchas deportivas para múltiples disciplinas.\nPista de running con entorno natural.\nGimnasio Outdoor, pensado para quienes disfrutan entrenar al aire libre.\nCada espacio fue diseñado para integrar deporte, salud y bienestar, en un ambiente seguro, accesible y comunitario.\nNuestra Misión \nBrindar bienestar, salud y comunidad.\nEn CADA trabajamos para ofrecer un espacio integral donde la actividad física, la educación y la terapia se combinan para acompañar a cada persona en su desarrollo.\nNuestro compromiso es mejorar la calidad de vida de quienes nos eligen, fomentando hábitos saludables y experiencias significativas para todas las edades.\nNuestra Visión \nSer un referente en la Costa de Oro y en todo Uruguay por la calidad de nuestros servicios, la innovación de nuestras propuestas y el impacto positivo en la comunidad.\nAspiramos a consolidarnos como un centro modelo en salud, deporte y bienestar, reconocido por su excelencia, su equipo humano y su contribución al desarrollo integral de las personas.\nNuestros Valores \nEn CADA creemos que cada acción cuenta. Por eso, nuestros valores guían todo lo que hacemos:\nCompromiso \nCon nuestra comunidad, con la salud y con la mejora continua.\nProfesionalismo \nEn cada servicio, programa y relación humana.\nInclusión \nPromovemos un espacio abierto y accesible para todas las edades y condiciones.\nRespeto \nPor las personas, el entorno, la diversidad y el trabajo en equipo.\nPasión \nPor el deporte, la educación y el bienestar de quienes nos rodean.\nInnovación \nBuscamos permanentemente nuevas formas de crecer y mejorar la experiencia de nuestros socios.",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Historia de CADA\n\n## Tres amigos, un sueño compartido. \n\nEl **Centro Acuático y Deportivo Atlántida (CADA)** nació del sueño compartido de tres amigos, guardavidas y profesores de educación física que se conocieron en su etapa de formación.  \nUn proyecto que comenzó a gestarse hace más de **30 años** y que se hizo realidad el **18 de marzo de 2024**, con la fundación de un espacio pensado para transformar la vida de las personas a través del deporte, la salud y la educación.\n\nHoy, CADA es el **primer Centro de actividades acuáticas, deportivas y terapéuticas de Atlántida**, creado con el propósito de **mejorar la calidad de vida de la comunidad de la Costa de Oro**.  \nOfrecemos propuestas para todas las edades y familias, integrando programas que promueven el bienestar físico, mental y social en un entorno de confianza, cercanía y profesionalismo.\n\n![Odoo • Texto e imagen](https://cada.com.uy/web/image/2319/1.png)\n\n![Odoo • Imagen y texto](https://cada.com.uy/web/image/2321/2.png)\n\n## Instalaciones\n\nDiseñado para brindar una experiencia integral, **CADA cuenta con infraestructura moderna y funcional**, que combina tecnología, confort y naturaleza:\n\n*   **Piscina semiolímpica de 25 metros**, ideal para la enseñanza, el entrenamiento y la competencia.\n    \n*   **Piscina terapéutica climatizada de 9 x 9 metros**, especialmente pensada para rehabilitación y programas de salud.\n    \n*   **Vestuarios para niños y adultos**, cómodos, seguros y equipados para el uso familiar.\n    \n*   **Clínica especializada en Fisioterapia**, una de las más modernas de la Costa de Oro, con un equipo multidisciplinario y equipamiento de última generación.\n    \n*   **Canchas deportivas** para múltiples disciplinas.\n    \n*   **Pista de running** con entorno natural.\n    \n*   **Gimnasio Outdoor**, pensado para quienes disfrutan entrenar al aire libre.\n    \n\nCada espacio fue diseñado para **integrar deporte, salud y bienestar**, en un ambiente seguro, accesible y comunitario.\n\n## **Nuestra Misión**\n\n**Brindar bienestar, salud y comunidad.**  \nEn CADA trabajamos para ofrecer un espacio integral donde la actividad física, la educación y la terapia se combinan para acompañar a cada persona en su desarrollo.  \nNuestro compromiso es **mejorar la calidad de vida** de quienes nos eligen, fomentando hábitos saludables y experiencias significativas para todas las edades.\n\n* * *\n\n## Nuestra Visión\n\nSer un **referente en la Costa de Oro y en todo Uruguay** por la calidad de nuestros servicios, la innovación de nuestras propuestas y el impacto positivo en la comunidad.  \nAspiramos a consolidarnos como un **centro modelo en salud, deporte y bienestar**, reconocido por su excelencia, su equipo humano y su contribución al desarrollo integral de las personas.\n\n* * *\n\n## Nuestros Valores\n\nEn CADA creemos que cada acción cuenta. Por eso, nuestros valores guían todo lo que hacemos:\n\n### Compromiso\n\nCon nuestra comunidad, con la salud y con la mejora continua.\n\n### Profesionalismo\n\nEn cada servicio, programa y relación humana.\n\n### Inclusión\n\nPromovemos un espacio abierto y accesible para todas las edades y condiciones.\n\n### Respeto\n\nPor las personas, el entorno, la diversidad y el trabajo en equipo.\n\n### Pasión\n\nPor el deporte, la educación y el bienestar de quienes nos rodean.\n\n### Innovación\n\nBuscamos permanentemente nuevas formas de crecer y mejorar la experiencia de nuestros socios.\n\n![Odoo • Texto e imagen](https://cada.com.uy/web/image/2323/3.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/instalaciones",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:45:27.598Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 25696,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/instalaciones",
+    "title": "Instalaciones | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Instalaciones | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/instalaciones"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:15 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "25696",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:15 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-9376176-instalaciones.jpg?signature=vfvIkvIggqR5N1gOZ2dn",
+  "text": "Centro Acuático y Deportivo Atlántida\nNuestras instalaciones \nPiscinas \nPiscina semiolímpica (25 mts)\nNuestra piscina semiolímpica de 25 metros fue diseñada para brindar una experiencia acuática completa, adaptada tanto a quienes desean aprender a nadar, mejorar su condición física, o perfeccionar su técnica competitiva.\nCon medidas oficiales y seis amplios andariveles, ofrece el entorno ideal para el entrenamiento, la enseñanza y la práctica libre, en un ambiente seguro, dinámico y motivador.\nUn espacio pensado para disfrutar del agua, entrenar con propósito y superar tus propios límites.\nDonde cada brazada cuenta y te acerca a tu mejor versión. \nPiscina terapéutica (9 x 9 mts)\nNuestra piscina terapéutica de 9 x 9 metros fue especialmente diseñada para promover la rehabilitación física, la relajación y el bienestar integral.\nEl agua climatizada a la temperatura óptima para la hidroterapia y los chorros de masaje permiten realizar tratamientos que alivian dolencias musculares y articulares, mejoran la circulación y reducen el estrés físico y mental.\nBajo la conducción de nuestros fisioterapeutas especializados, se desarrollan programas terapéuticos personalizados adaptados a las necesidades de cada persona: desde procesos de rehabilitación post-lesión hasta entrenamientos acuáticos de bajo impacto orientados a la movilidad, fuerza, equilibrio y relajación.\nUn entorno seguro, cálido y profesional para recuperar tu bienestar, disfrutar del movimiento y cuidar tu salud.\nEl agua como aliada de tu recuperación. \nVestuarios \nVestuarios para adultos y niños\nNuestros vestuarios han sido diseñados para ofrecer la máxima comodidad, funcionalidad y privacidad a todas las personas que disfrutan de las actividades en nuestro centro.\nContamos con instalaciones separadas para adultos y niños, pensadas para garantizar un entorno seguro, confortable y adecuado para cada edad.\nCada vestuario dispone de duchas amplias, lockers individuales y áreas cómodas para cambiarse, asegurando una experiencia práctica, higiénica y agradable antes y después de cada actividad.\nEn cada detalle, buscamos que tu paso por nuestras instalaciones sea tan cómodo y placentero como tu entrenamiento.\nComodidad, seguridad y bienestar en cada visita. \nLa Clínica de Fisioterapia \nLa Clínica\nNuestra Clínica de Fisioterapia representa la vanguardia en el cuidado, prevención y recuperación física . \nIntegramos tecnología de última generación , un equipo interdisciplinario de fisioterapeutas altamente calificados y un enfoque centrado en la persona, para brindar soluciones efectivas y personalizadas. \nAtendemos una amplia gama de necesidades: desde lesiones deportivas y dolencias musculares hasta procesos de rehabilitación y readaptación funcional. Cada tratamiento se diseña a medida, con una atención cálida, profesional y orientada a restaurar la movilidad, reducir el dolor y mejorar la calidad de vida.\nCuidamos de tu cuerpo. Potenciamos tu bienestar. \nCanchas, gimnasio y pista de running. \nOutdoor: canchas, gimnasio y pista.\nEn nuestras instalaciones outdoor encontrarás el entorno perfecto para vivir el deporte al aire libre en su máxima expresión.\nContamos con amplias canchas y áreas verdes diseñadas para la práctica de fútbol, vóleibol y diversas actividades recreativas, en un ambiente natural, seguro y dinámico. Es el lugar ideal para entrenar, competir o simplemente disfrutar del movimiento y la naturaleza.\nAdemás, disponemos de un gimnasio outdoor totalmente equipado, donde ofrecemos entrenamientos dirigidos y programas personalizados adaptados a cada nivel y objetivo. Nuestros profesionales te acompañan en cada sesión para que alcances tu mejor versión, combinando fuerza, resistencia y bienestar al aire libre.\nCompletando la experiencia, nuestra pista de running permite realizar entrenamientos cardiovasculares o prácticas de running y caminatas en un entorno natural, rodeado de aire puro y energía positiva.\nViví el deporte, el bienestar y la libertad de entrenar al aire libre. \n¡Tu diversión y/o entrenamiento empiezan aquí!",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## **Nuestras instalaciones**\n\n## **Piscinas**\n\n![Odoo • Imagen y texto](https://cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg)\n\n## Piscina semiolímpica (25 mts)\n\nNuestra **piscina semiolímpica** de **25 metros** fue diseñada para brindar una **experiencia acuática completa**, adaptada tanto a quienes desean **aprender a nadar**, mejorar su **condición física**, o perfeccionar su **técnica competitiva**.\n\nCon **medidas oficiales** y **seis amplios andariveles**, ofrece el entorno ideal para el **entrenamiento, la enseñanza y la práctica libre**, en un ambiente seguro, dinámico y motivador.\n\nUn espacio pensado para **disfrutar del agua, entrenar con propósito y superar tus propios límites**.\n\n**Donde cada brazada cuenta y te acerca a tu mejor versión.**\n\n![Odoo • Imagen y texto](https://cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg)\n\n## Piscina terapéutica (9 x 9 mts)\n\nNuestra **piscina terapéutica** de **9 x 9 metros** fue especialmente diseñada para promover la **rehabilitación física, la relajación y el bienestar integral**.\n\nEl agua climatizada a la **temperatura óptima para la hidroterapia** y los **chorros de masaje** permiten realizar tratamientos que alivian dolencias musculares y articulares, mejoran la circulación y reducen el estrés físico y mental.\n\nBajo la conducción de nuestros **fisioterapeutas especializados**, se desarrollan **programas terapéuticos personalizados** adaptados a las necesidades de cada persona: desde procesos de **rehabilitación post-lesión** hasta **entrenamientos acuáticos de bajo impacto** orientados a la **movilidad, fuerza, equilibrio y relajación**.\n\nUn entorno seguro, cálido y profesional para **recuperar tu bienestar, disfrutar del movimiento y cuidar tu salud**.\n\n**El agua como aliada de tu recuperación.**\n\n## Vestuarios\n\n![Odoo • Imagen y texto](https://cada.com.uy/web/image/539/Vestuarios.png)\n\n## Vestuarios para adultos y niños\n\nNuestros **vestuarios** han sido diseñados para ofrecer la **máxima comodidad, funcionalidad y privacidad** a todas las personas que disfrutan de las actividades en nuestro centro.\n\nContamos con **instalaciones separadas para adultos y niños**, pensadas para garantizar un **entorno seguro, confortable y adecuado para cada edad**.\n\nCada vestuario dispone de **duchas amplias, lockers individuales y áreas cómodas para cambiarse**, asegurando una experiencia práctica, higiénica y agradable antes y después de cada actividad.\n\nEn cada detalle, buscamos que tu paso por nuestras instalaciones sea **tan cómodo y placentero como tu entrenamiento.**\n\n**Comodidad, seguridad y bienestar en cada visita.**\n\n## La Clínica de Fisioterapia\n\n![Odoo • Imagen y texto](https://cada.com.uy/web/image/928/IMG_8469.jpeg)\n\n## La Clínica\n\nNuestra **Clínica de Fisioterapia** representa la **vanguardia en el cuidado, prevención y recuperación física** .\n\nIntegramos **tecnología de última generación** , un **equipo interdisciplinario de fisioterapeutas altamente calificados** y un enfoque centrado en la persona, para brindar soluciones efectivas y personalizadas.\n\nAtendemos una amplia gama de necesidades: desde **lesiones deportivas** y **dolencias musculares** hasta **procesos de rehabilitación y readaptación funcional**. Cada tratamiento se diseña a medida, con una atención cálida, profesional y orientada a **restaurar la movilidad, reducir el dolor y mejorar la calidad de vida**.\n\n**Cuidamos de tu cuerpo. Potenciamos tu bienestar.**\n\n## Canchas, gimnasio y pista de running.\n\n![Odoo • Imagen y texto](https://cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png)\n\n## Outdoor: canchas, gimnasio y pista.\n\nEn nuestras instalaciones **outdoor** encontrarás el entorno perfecto para vivir el deporte al aire libre en su máxima expresión.\n\nContamos con **amplias canchas y áreas verdes** diseñadas para la práctica de **fútbol, vóleibol y diversas actividades recreativas**, en un ambiente natural, seguro y dinámico. Es el lugar ideal para entrenar, competir o simplemente disfrutar del movimiento y la naturaleza.\n\nAdemás, disponemos de un **gimnasio outdoor** totalmente equipado, donde ofrecemos **entrenamientos dirigidos** y **programas personalizados** adaptados a cada nivel y objetivo. Nuestros profesionales te acompañan en cada sesión para que alcances tu mejor versión, combinando fuerza, resistencia y bienestar al aire libre.\n\nCompletando la experiencia, nuestra **pista de running** permite realizar entrenamientos cardiovasculares o prácticas de running y caminatas en un entorno natural, rodeado de aire puro y energía positiva.\n\nViví el deporte, el bienestar y la libertad de entrenar al aire libre.\n\n****¡Tu diversión y/o entrenamiento empiezan aquí!****\n\n##  [![](https://cada.com.uy/web/image/2609/Wapp.png)](https://wa.me/59899943270)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/ubicacion",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/ubicacion",
+    "loadedTime": "2026-02-04T03:45:27.960Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 11734,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/ubicacion",
+    "title": "Ubicación | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Ubicación | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/ubicacion"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:13 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "11734",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:13 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-5c617d1-ubicacion.jpg?signature=YB1CXO3FDFxuYgJdu0wM",
+  "text": "Centro Acuático y Deportivo Atlántida\nUbicación \nGoya esq Av. Pinares - Atlántida",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Ubicación\n\n## Goya esq Av. Pinares - Atlántida",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2321/2.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2321/2.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:45:31.822Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 443008,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2321/2.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "2.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-f609b5c-2.png?signature=1Kw16U3vObxUsLbsiTNCG"
+},
+{
+  "url": "https://cada.com.uy/web/image/2319/1.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2319/1.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:45:32.124Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 869031,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2319/1.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "1.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-29e54c4-1.png?signature=1ql4r5f7mh8ncUjeJf3OA"
+},
+{
+  "url": "https://cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:45:32.534Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 255333,
+    "contentType": "image/jpeg"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "PHOTO-2024-03-23-07-26-10%202.jpg"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-8ad2496-PHOTO-2024-03-23-07-26-10202.jpg?signature=ZLItbru0OTF06noNbaQ2"
+},
+{
+  "url": "https://cada.com.uy/web/image/2323/3.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2323/3.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:45:32.564Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 400219,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2323/3.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "3.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-daaf6e6-3.png?signature=F9efktpTlkmQn9940kbp"
+},
+{
+  "url": "https://cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:45:33.232Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 578586,
+    "contentType": "image/jpeg"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "PHOTO-2024-03-28-12-29-07.jpg"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-df97c8e-PHOTO-2024-03-28-12-29-07.jpg?signature=zGiIBZkabfE6hDJC9igL"
+},
+{
+  "url": "https://cada.com.uy/web/image/928/IMG_8469.jpeg",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/928/IMG_8469.jpeg",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:45:34.291Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 686645,
+    "contentType": "image/jpeg"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/928/IMG_8469.jpeg",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "IMG_8469.jpeg"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-8bd9c96-IMG_8469.jpeg?signature=1czWL0OGWIwpx74jX7gnW"
+},
+{
+  "url": "https://cada.com.uy/web/image/2609/Wapp.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2609/Wapp.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:45:37.524Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 8059,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2609/Wapp.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Wapp.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-dfc4f05-Wapp.png?signature=ybQo3qPXwk2WkegR9l3e"
+},
+{
+  "url": "https://cada.com.uy/web/image/2539/Ubicacio%CC%81n.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2539/Ubicacio%CC%81n.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/ubicacion",
+    "loadedTime": "2026-02-04T03:45:38.619Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 327113,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2539/Ubicacio%CC%81n.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Ubicacio%CC%81n.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-0a46614-UbicacioCC81n.png?signature=1sSRdPXrBtz0ExVE8Dtu6"
+},
+{
+  "url": "https://cada.com.uy/web/image/539/Vestuarios.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/539/Vestuarios.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:45:38.858Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1379111,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/539/Vestuarios.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Vestuarios.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-ec05624-Vestuarios.png?signature=u1uQC5ZqhvJw0fEGWOPW"
+},
+{
+  "url": "https://cada.com.uy/web/image/2541/Ubicacio%CC%81n_Aqui%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2541/Ubicacio%CC%81n_Aqui%CC%81.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/ubicacion",
+    "loadedTime": "2026-02-04T03:45:38.963Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 5689,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2541/Ubicacio%CC%81n_Aqui%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Ubicacio%CC%81n_Aqui%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-069f178-UbicacioCC81n_AquiCC81.png?signature=1ENfN22B0vYnos0GbRplM"
+},
+{
+  "url": "https://cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:45:40.067Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 528121,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Copia%20de%20CADA%20Actividades%20y%20Servicios.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-e62588d-Copia20de20CADA20Actividades20y20Servicios.png?signature=1OFKAJw4gyYcDCYvrsnkG"
+},
+{
+  "url": "https://cada.com.uy/rse",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/rse",
+    "loadedTime": "2026-02-04T03:45:42.669Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 11391,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/rse",
+    "title": "Responsabilidad Social | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Responsabilidad Social | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/rse"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:21 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "11391",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:21 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=98",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-2a49388-rse.jpg?signature=1ywLQl8CdlScIswTfI9bM",
+  "text": "Responsabilidad Social | Centro Acuático y Deportivo Atlántida\nDeporte, Comunidad y Sostenibilidad.",
+  "markdown": "# Responsabilidad Social | Centro Acuático y Deportivo Atlántida\n\n## Deporte, Comunidad y Sostenibilidad.\n\n## ![](https://cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/rse",
+    "loadedTime": "2026-02-04T03:45:46.421Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 117815,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "CADA%20Responsabilidad%20Social.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-054b70d-CADA20Responsabilidad20Social.png?signature=143foR2J2ibQOCscYakXQ"
+},
+{
+  "url": "https://cada.com.uy/actividades",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:45:44.846Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 15317,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/actividades",
+    "title": "Actividades | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Actividades | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/actividades"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:33 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "15317",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:33 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=99",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-5cfddbe-actividades.jpg?signature=7Trtu5VAz7CdYxSCFViu",
+  "text": "Centro Acuático y Deportivo Atlántida\nActividades & Horarios \nPlanes disponibles: Integral, Agua, Tierra & Matro",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Actividades & Horarios\n\n## **Planes disponibles: Integral, Agua, Tierra & Matro**",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2602/A%26HAdolescentes.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2602/A%26HAdolescentes.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:45:48.397Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 19971,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2602/A%26HAdolescentes.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A%26HAdolescentes.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-b4ee12a-A26HAdolescentes.png?signature=1xsK5gU0rnQdwdxxWEeF6"
+},
+{
+  "url": "https://cada.com.uy/web/image/2604/A%26HAdultos.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2604/A%26HAdultos.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:45:48.628Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 19229,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2604/A%26HAdultos.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A%26HAdultos.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-627aad2-A26HAdultos.png?signature=1RBR04Bv1F7uXKzfo65y"
+},
+{
+  "url": "https://cada.com.uy/web/image/2600/A&HNin%CC%83os.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2600/A&HNin%CC%83os.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:45:48.830Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 19679,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2600/A&HNin%CC%83os.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A&HNin%CC%83os.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-6ce9500-AHNinCC83os.png?signature=1e1OeaoD8mwxgjyAxgBYJ"
+},
+{
+  "url": "https://cada.com.uy/web/image/2598/A%26HMatro.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2598/A%26HMatro.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:45:48.842Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14340,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2598/A%26HMatro.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A%26HMatro.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-888a973-A26HMatro.png?signature=Lcd2DFLdKLgTMg8PSaoJ"
+},
+{
+  "url": "https://cada.com.uy/web/image/2615/PreciosAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2615/PreciosAQUI%CC%81.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:45:48.950Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 5320,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2615/PreciosAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "PreciosAQUI%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-be0c1af-PreciosAQUICC81.png?signature=Kn1Rrnqa0xU43CW4Eet6"
+},
+{
+  "url": "https://cada.com.uy/coloniadeverano",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:45:51.688Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 12162,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/coloniadeverano",
+    "title": "Colonia de Verano | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Colonia de Verano | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/coloniadeverano"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:33 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "12162",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:33 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-83747c2-coloniadeverano.jpg?signature=TGrRa7c0EbNlu0oESO2W",
+  "text": "",
+  "markdown": "Colonia de Verano | Centro Acuático y Deportivo Atlántida\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)[](https://wa.me/59899958210)[](https://wa.me/59899958210)![](/web/image/2714/Colonia%20de%20Verano%20WEB.png)  \n  \n[![](/web/image/2613/InscripcionesAQUI%CC%81.png)](https://forms.gle/TWK5JYWr6AaYUG4D6)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)[![](/web/image/2611/WappAQUI%CC%81.png)](https://wa.me/59899191792)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)  \n[  \n](https://wa.me/59899958210)[  \n](https://wa.me/59899958210)[](https://forms.gle/uoWxE3pbWnRv31xc8)[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)  \n[  \n](https://wa.me/59899958210)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:45:55.110Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 6715,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "WappAQUI%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-b2a28e6-WappAQUICC81.png?signature=eJw7sTAAowCPhQPiGdWt"
+},
+{
+  "url": "https://cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:45:55.160Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 6153,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "InscripcionesAQUI%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-c2dc9f2-InscripcionesAQUICC81.png?signature=1c1zhblxgf6E7XWQjFyC1"
+},
+{
+  "url": "https://cada.com.uy/precios",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:53.046Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 21674,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/precios",
+    "title": "Precios | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Precios | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/precios"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:31 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "21674",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:31 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=99",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-bf947ce-precios.jpg?signature=1oMfjJod9xYCdEeVrrALK",
+  "text": "Centro Acuático y Deportivo Atlántida\nPrecios \n2025 \nPlanes \nPor categorías \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Precios\n\n## 2025\n\n## Planes\n\n## Por categorías\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2543/1.png)](https://cada.com.uy/adultos)\n\n[\\+ Info AQÚI](https://cada.com.uy/adultos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2545/2.png)](https://cada.com.uy/adultos)\n\n[\\+ Info AQÚI](https://cada.com.uy/adultos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2547/3.png)](https://cada.com.uy/adultos)\n\n[\\+ Info AQÚI](https://cada.com.uy/adultos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2549/4.png)](https://www.cada.com.uy/13-a-17-anos)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/13-a-17-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2551/5.png)](https://www.cada.com.uy/13-a-17-anos)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/13-a-17-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2553/6.png)](https://www.cada.com.uy/13-a-17-anos)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/13-a-17-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2555/7.png)](https://cada.com.uy/3-a12-anos)\n\n[\\+ Info AQÚI](https://cada.com.uy/3-a12-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2557/8.png)](https://cada.com.uy/3-a12-anos)\n\n[\\+ Info AQÚI](https://cada.com.uy/3-a12-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2559/9.png)](https://cada.com.uy/3-a12-anos)\n\n[\\+ Info AQÚI](https://cada.com.uy/3-a12-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://cada.com.uy/web/image/2561/10.png)](https://www.cada.com.uy/matronatacion)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/matronatacion)\n\n##  [![](https://cada.com.uy/web/image/2611/WappAQUI%CC%81.png)](https://wa.me/59899943270)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:45:56.986Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 923154,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Colonia%20de%20Verano%20WEB.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-77834b9-Colonia20de20Verano20WEB.png?signature=1GRWsl9qj0Bg8cFOfJ0mW"
+},
+{
+  "url": "https://cada.com.uy/web/image/2506/Descargar_PDF.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2506/Descargar_PDF.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:57.367Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 5677,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2506/Descargar_PDF.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Descargar_PDF.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-1ff75c0-Descargar_PDF.png?signature=Ku8E8ajS08F7pduamcau"
+},
+{
+  "url": "https://cada.com.uy/web/image/2576/Planes_Socios_2025..png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2576/Planes_Socios_2025..png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:57.413Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 32772,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2576/Planes_Socios_2025..png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Planes_Socios_2025..png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-aa4b8ab-Planes_Socios_2025..png?signature=zIkBzsKgEphyz9UDhd9q"
+},
+{
+  "url": "https://cada.com.uy/web/image/2543/1.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2543/1.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:57.435Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14349,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2543/1.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "1.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-eef20bc-1.png?signature=ayhl5URyxhSXY1Quv08c"
+},
+{
+  "url": "https://cada.com.uy/web/image/2545/2.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2545/2.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:57.714Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 15027,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2545/2.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "2.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-11587f8-2.png?signature=1Hg2lBMMPGsni4uSSIW4b"
+},
+{
+  "url": "https://cada.com.uy/web/image/2547/3.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2547/3.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:57.722Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 16026,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2547/3.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "3.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-ff11f77-3.png?signature=oE9xcoD6uW39SjC2nz8T"
+},
+{
+  "url": "https://cada.com.uy/web/image/2549/4.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2549/4.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:57.858Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14514,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2549/4.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "4.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-ecf0966-4.png?signature=69v2YYuhndmBInWrl3Q9"
+},
+{
+  "url": "https://cada.com.uy/web/image/2551/5.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2551/5.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:58.030Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 15437,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2551/5.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "5.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-1aaff84-5.png?signature=a71I6uTVtdEuNtQWdcoA"
+},
+{
+  "url": "https://cada.com.uy/web/image/2553/6.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2553/6.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:58.078Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 16084,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2553/6.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "6.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-4287e88-6.png?signature=6Y9R2nazjxliylDMbYq8"
+},
+{
+  "url": "https://cada.com.uy/web/login",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/login",
+    "loadedTime": "2026-02-04T03:45:54.441Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 11442,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/web/login",
+    "title": "Login | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Login | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/login"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:33 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "x-frame-options": "DENY",
+      "content-length": "11442",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:33 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-ce2e451-login.jpg?signature=xVsHqEItIql3IDgIYfdc",
+  "text": "Centro Acuático y Deportivo Atlántida\nUsuario \nContraseña",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\nUsuario\n\nContraseña",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2555/7.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2555/7.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:58.172Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14406,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2555/7.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "7.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-fc88296-7.png?signature=1xYkxQjwtUateoiXIRSsZ"
+},
+{
+  "url": "https://cada.com.uy/web/image/2557/8.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2557/8.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:58.450Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 15455,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2557/8.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "8.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-f2e7c48-8.png?signature=1quVB45qIDllwJs0zpRZO"
+},
+{
+  "url": "https://cada.com.uy/web/image/2561/10.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2561/10.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:58.538Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 18152,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2561/10.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "10.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-51e9261-10.png?signature=SzVkvriCDLCiriDMb66G"
+},
+{
+  "url": "https://cada.com.uy/web/image/2559/9.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2559/9.png",
+    "depth": 2,
+    "referrerUrl": "https://cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:45:58.903Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 16261,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2559/9.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "9.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-b21e7c9-9.png?signature=1Gk8I3Uefjgrc4UP7QL4B"
+},
+{
+  "url": "http://www.cada.com.uy/",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy//",
+    "loadedTime": "2026-02-04T03:46:11.540Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 10361,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy//",
+    "title": "Home | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Home | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:47 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10361",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:47 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=95",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-709c72f-.jpg?signature=zC04X2IIwhFm3URPnVP4",
+  "text": "",
+  "markdown": "Home | Centro Acuático y Deportivo Atlántida\n\n[![](/web/image/2382/Colonia2.png)](http://www.cada.com.uy/coloniadeverano)[](http://www.cada.com.uy/)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/adultos",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/adultos",
+    "loadedTime": "2026-02-04T03:46:13.312Z",
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 10880,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/adultos",
+    "title": "Adultos | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Adultos | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/adultos"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:51 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10880",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:51 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-509410c-adultos.jpg?signature=1gWXqdkisjZfhKG7A8bEC",
+  "text": "",
+  "markdown": "Adultos | Centro Acuático y Deportivo Atlántida\n\n![](/web/image/2516/CADA%20%20Horarios%202025%20-%20Adultos.png)  \n\n#  [![](/web/image/2506/Descargar_PDF.png)](https://mcusercontent.com/ed22891a0a2df51482f4e0c03/files/10c85ea7-228d-9ee5-8e0c-da54cf307089/CADA_Horarios_2025_Adultos.pdf)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/13-a-17-anos",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/13-a-17-anos",
+    "loadedTime": "2026-02-04T03:46:13.183Z",
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 10945,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/13-a-17-anos",
+    "title": "13 a 17 años | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "13 a 17 años | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/13-a-17-anos"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:52 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10945",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:52 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-7cbe6f7-13-a-17-anos.jpg?signature=19RLikhhx1AB1N7nK2tL6",
+  "text": "",
+  "markdown": "13 a 17 años | Centro Acuático y Deportivo Atlántida\n\n![](/web/image/2586/Horarios_Adolescentes_2025_.png)  \n\n#  [![](/web/image/2506/Descargar_PDF.png)](https://mcusercontent.com/ed22891a0a2df51482f4e0c03/files/5ccf58d0-c053-cad8-45f1-c2e4a3e39c38/CADA_Horarios_2025_Jo_venes.pdf)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "http://www.cada.com.uy/web/image/2382/Colonia2.png",
+  "crawl": {
+    "loadedUrl": "http://www.cada.com.uy/web/image/2382/Colonia2.png",
+    "depth": 2,
+    "referrerUrl": "http://www.cada.com.uy/",
+    "loadedTime": "2026-02-04T03:46:18.016Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 250450,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "http://www.cada.com.uy/web/image/2382/Colonia2.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Colonia2.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-b86e499-Colonia2.png?signature=13VauZnJyVr5vMrt9ujY4"
+},
+{
+  "url": "http://www.cada.com.uy/coloniadeverano",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy//coloniadeverano",
+    "loadedTime": "2026-02-04T03:46:14.980Z",
+    "referrerUrl": "https://cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 1,
+    "contentLengthBytes": 12162,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy//coloniadeverano",
+    "title": "Colonia de Verano | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Colonia de Verano | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/coloniadeverano"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:47 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "12162",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:47 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=96",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-b39f4c6-coloniadeverano.jpg?signature=2nYBWH21Zu12dRleoyd0",
+  "text": "",
+  "markdown": "Colonia de Verano | Centro Acuático y Deportivo Atlántida\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)[](https://wa.me/59899958210)[](https://wa.me/59899958210)![](/web/image/2714/Colonia%20de%20Verano%20WEB.png)  \n  \n[![](/web/image/2613/InscripcionesAQUI%CC%81.png)](https://forms.gle/TWK5JYWr6AaYUG4D6)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)[![](/web/image/2611/WappAQUI%CC%81.png)](https://wa.me/59899191792)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)  \n[  \n](https://wa.me/59899958210)[  \n](https://wa.me/59899958210)[](https://forms.gle/uoWxE3pbWnRv31xc8)[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)  \n[  \n](https://wa.me/59899958210)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2516/CADA%20%20Horarios%202025%20-%20Adultos.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2516/CADA%20%20Horarios%202025%20-%20Adultos.png",
+    "depth": 3,
+    "referrerUrl": "https://cada.com.uy/adultos",
+    "loadedTime": "2026-02-04T03:46:20.067Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 354237,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2516/CADA%20%20Horarios%202025%20-%20Adultos.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "CADA%20%20Horarios%202025%20-%20Adultos.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-40682d1-CADA2020Horarios20202520-20Adultos.png?signature=1HrxJmciax37IfhaMOQCv"
+},
+{
+  "url": "https://cada.com.uy/matronatacion",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/matronatacion",
+    "loadedTime": "2026-02-04T03:46:17.930Z",
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 15629,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/matronatacion",
+    "title": "Matronatación | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Matronatación | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/matronatacion"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:56 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "15629",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:56 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=94",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-99c6e1c-matronatacion.jpg?signature=tEALZIj7kYlWR55vcm4f",
+  "text": "Centro Acuático y Deportivo Atlántida\n\"Su primer chapuzón\" \nNiños de 4 a 36 meses.\n➤ El trabajo en el agua, la natación, es una agradable actividad para hacer en familia y un gran pasatiempo para la gran mayoría de los niños.\n➤ Es muy recomendable empezar pronto el contacto con el medio acuático para así conseguir seguridad personal en él.\n➤ El mejor momento para iniciarlos es antes de los 2 años ya que aún no aparecen los temores ni el conocimiento de la profundidad.\n➤ El momento más recomendable sería a partir de los 4 meses que es cuando su sistema inmunológico se encuentra mejor desarrollado.\n➤ No establecemos un periodo para cumplir objetivos.\n➤ Respetamos los tiempos de cada niño/a, ya que cada bebé tiene su nivel de aprendizaje, debido a que las características psicológicas y físicas son diferentes en cada chico; por lo tanto no los forzamos.",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n**\"Su primer chapuzón\"**\n\n**Niños de 4 a 36 meses.**\n\n➤ El trabajo en el agua, la natación, es una agradable actividad para hacer en familia y un gran pasatiempo para la gran mayoría de  los niños.  \n\n➤ Es muy recomendable empezar pronto el contacto con el medio acuático para así conseguir seguridad personal en él.\n\n➤ El mejor momento para iniciarlos es antes de los 2 años ya que aún no aparecen los temores ni el conocimiento de la profundidad.\n\n➤ El momento más recomendable sería a partir de los 4 meses que es cuando su sistema inmunológico se encuentra mejor desarrollado.\n\n➤ No establecemos un periodo para cumplir objetivos.\n\n➤ Respetamos los tiempos de cada niño/a, ya que cada bebé tiene su nivel de aprendizaje, debido a que las características psicológicas y físicas son diferentes en cada chico; por lo tanto no los forzamos.\n\n![](https://cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/6-a-9-anos",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/6-a-9-anos",
+    "loadedTime": "2026-02-04T03:46:17.413Z",
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "httpStatusCode": 404,
+    "depth": 2,
+    "contentLengthBytes": 10708,
+    "contentType": "text/html;charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/6-a-9-anos",
+    "title": "404 | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "404 | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/6-a-9-anos"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:45:55 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html;charset=utf-8",
+      "content-length": "10708",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:45:55 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=95",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-034aab9-6-a-9-anos.jpg?signature=14DTPk3677E4CNpYc5wsS",
+  "text": "Centro Acuático y Deportivo Atlántida\n404: ¡Página no encontrada!\nNo se puede encontrar la página que está buscando; es posible que haya escrito la dirección de manera incorrecta, pero probablemente puede haber sido eliminada debido a la reciente reorganización del sitio. \n¿Tal vez buscaba una de estas página populares?\nPágina de inicio\nContáctenos",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## 404: ¡Página no encontrada!\n\nNo se puede encontrar la página que está buscando; es posible que haya escrito la dirección de manera incorrecta, pero probablemente puede haber sido eliminada debido a la reciente reorganización del sitio.\n\n¿Tal vez buscaba una de estas página populares?\n\n*   [Página de inicio](https://cada.com.uy/)\n*   [Contáctenos](https://cada.com.uy/contactus)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2586/Horarios_Adolescentes_2025_.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2586/Horarios_Adolescentes_2025_.png",
+    "depth": 3,
+    "referrerUrl": "https://cada.com.uy/13-a-17-anos",
+    "loadedTime": "2026-02-04T03:46:21.726Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 308650,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2586/Horarios_Adolescentes_2025_.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Horarios_Adolescentes_2025_.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-f26c648-Horarios_Adolescentes_2025_.png?signature=1PVOcwz3JhCWp6Iltk4vk"
+},
+{
+  "url": "http://www.cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "http://www.cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+    "depth": 2,
+    "referrerUrl": "http://www.cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:46:22.610Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 6153,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "http://www.cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "InscripcionesAQUI%cc%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-aea97a2-InscripcionesAQUICC81.png?signature=12EY4jQDpLwAZmSl5Ony0"
+},
+{
+  "url": "http://www.cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "http://www.cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+    "depth": 2,
+    "referrerUrl": "http://www.cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:46:22.751Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 6715,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "http://www.cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "WappAQUI%cc%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-0cfe844-WappAQUICC81.png?signature=1bAOe9qiGMzIdrVK00jRq"
+},
+{
+  "url": "https://cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png",
+    "depth": 3,
+    "referrerUrl": "https://cada.com.uy/matronatacion",
+    "loadedTime": "2026-02-04T03:46:23.486Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 198966,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-3bc9ffb-CADA2020Horarios20202520-20MatronatacioCC81n.png?signature=xjzjdlrlceHtTQ8r1Iwu"
+},
+{
+  "url": "http://www.cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+  "crawl": {
+    "loadedUrl": "http://www.cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+    "depth": 2,
+    "referrerUrl": "http://www.cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:46:25.290Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 923154,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "http://www.cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Colonia%20de%20Verano%20WEB.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-bb8e0ec-Colonia20de20Verano20WEB.png?signature=1zMQlij9ELLko0oQPLxWP"
+},
+{
+  "url": "https://www.cada.com.uy/precios",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:23.209Z",
+    "referrerUrl": "https://cada.com.uy/actividades",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 21674,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/precios",
+    "title": "Precios | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Precios | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/precios"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:01 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "21674",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=c514242509611f002fd9732942a525dd7c864e95; Expires=Tue, 05-May-2026 03:46:01 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-1087a63-precios.jpg?signature=1qOsF4wyx0darGbqSSshg",
+  "text": "Centro Acuático y Deportivo Atlántida\nPrecios \n2025 \nPlanes \nPor categorías \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI \n+ Info AQÚI",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Precios\n\n## 2025\n\n## Planes\n\n## Por categorías\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2543/1.png)](https://cada.com.uy/adultos)\n\n[\\+ Info AQÚI](https://cada.com.uy/adultos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2545/2.png)](https://cada.com.uy/adultos)\n\n[\\+ Info AQÚI](https://cada.com.uy/adultos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2547/3.png)](https://cada.com.uy/adultos)\n\n[\\+ Info AQÚI](https://cada.com.uy/adultos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2549/4.png)](https://www.cada.com.uy/13-a-17-anos)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/13-a-17-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2551/5.png)](https://www.cada.com.uy/13-a-17-anos)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/13-a-17-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2553/6.png)](https://www.cada.com.uy/13-a-17-anos)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/13-a-17-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2555/7.png)](https://cada.com.uy/3-a12-anos)\n\n[\\+ Info AQÚI](https://cada.com.uy/3-a12-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2557/8.png)](https://cada.com.uy/3-a12-anos)\n\n[\\+ Info AQÚI](https://cada.com.uy/3-a12-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2559/9.png)](https://cada.com.uy/3-a12-anos)\n\n[\\+ Info AQÚI](https://cada.com.uy/3-a12-anos)\n\n[![Odoo - Prueba 3 a tres columnas](https://www.cada.com.uy/web/image/2561/10.png)](https://www.cada.com.uy/matronatacion)\n\n[\\+ Info AQÚI](https://www.cada.com.uy/matronatacion)\n\n##  [![](https://www.cada.com.uy/web/image/2611/WappAQUI%CC%81.png)](https://wa.me/59899943270)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2576/Planes_Socios_2025..png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2576/Planes_Socios_2025..png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:27.207Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 32772,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2576/Planes_Socios_2025..png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Planes_Socios_2025..png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-915c859-Planes_Socios_2025..png?signature=QlbRC8agAAt4VcYcgXk0"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2543/1.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2543/1.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:27.564Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14349,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2543/1.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "1.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-afebf5b-1.png?signature=1ST6VeztfGCvCYOKCFKad"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2545/2.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2545/2.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:27.769Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 15027,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2545/2.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "2.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-9f84b52-2.png?signature=2yTK31Mde1KKhmg9Kk3w"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2506/Descargar_PDF.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2506/Descargar_PDF.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:27.816Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 5677,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2506/Descargar_PDF.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Descargar_PDF.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-545393f-Descargar_PDF.png?signature=1w9Ptt2xMsWGMJ8kd2pTD"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2547/3.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2547/3.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:28.008Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 16026,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2547/3.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "3.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-44132a1-3.png?signature=1djmmiG76sjpvpnUejYrI"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2549/4.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2549/4.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:28.209Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14514,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2549/4.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "4.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-5e7ebcb-4.png?signature=16glfN1DdURPgDmhcSUvy"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2553/6.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2553/6.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:28.510Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 16084,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2553/6.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "6.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-c3ec412-6.png?signature=1PtqCfh3ZUnapWDCMB3N7"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2551/5.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2551/5.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:28.508Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 15437,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2551/5.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "5.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-0c7a534-5.png?signature=q5qpVvot6QScoLFMYQUO"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2555/7.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2555/7.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:28.807Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14406,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2555/7.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "7.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-c844b8b-7.png?signature=1xYwdtZZ3kw2wjPgdcTx3"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2559/9.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2559/9.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:28.907Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 16261,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2559/9.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "9.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-8907dcf-9.png?signature=1j15ZMqCGxzeg5IbgtWJ5"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2557/8.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2557/8.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:28.909Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 15455,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2557/8.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "8.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-f66d78c-8.png?signature=1NMQraLaYbhdqy7jPgK2k"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:29.307Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 6715,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2611/WappAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "WappAQUI%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-e538634-WappAQUICC81.png?signature=1E6wyiLgd2ajHCfyOw3er"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2561/10.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2561/10.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "loadedTime": "2026-02-04T03:46:29.368Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 18152,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2561/10.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "10.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-429049e-10.png?signature=Lju6jdKp21i5PgrdVShY"
+},
+{
+  "url": "https://www.cada.com.uy/13-a-17-anos",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/13-a-17-anos",
+    "loadedTime": "2026-02-04T03:46:34.421Z",
+    "referrerUrl": "https://cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 10945,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/13-a-17-anos",
+    "title": "13 a 17 años | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "13 a 17 años | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/13-a-17-anos"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:18 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10945",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=c514242509611f002fd9732942a525dd7c864e95; Expires=Tue, 05-May-2026 03:46:18 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-cde734f-13-a-17-anos.jpg?signature=1uTOSej31aM52w6qsAtyi",
+  "text": "",
+  "markdown": "13 a 17 años | Centro Acuático y Deportivo Atlántida\n\n![](/web/image/2586/Horarios_Adolescentes_2025_.png)  \n\n#  [![](/web/image/2506/Descargar_PDF.png)](https://mcusercontent.com/ed22891a0a2df51482f4e0c03/files/5ccf58d0-c053-cad8-45f1-c2e4a3e39c38/CADA_Horarios_2025_Jo_venes.pdf)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2586/Horarios_Adolescentes_2025_.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2586/Horarios_Adolescentes_2025_.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/13-a-17-anos",
+    "loadedTime": "2026-02-04T03:46:38.182Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 308650,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2586/Horarios_Adolescentes_2025_.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Horarios_Adolescentes_2025_.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-37b61f8-Horarios_Adolescentes_2025_.png?signature=fYh1odWHCZ2RAMNoPYyN"
+},
+{
+  "url": "https://www.cada.com.uy/matronatacion",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/matronatacion",
+    "loadedTime": "2026-02-04T03:46:33.920Z",
+    "referrerUrl": "https://cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 15629,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/matronatacion",
+    "title": "Matronatación | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Matronatación | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/matronatacion"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:17 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "15629",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=c514242509611f002fd9732942a525dd7c864e95; Expires=Tue, 05-May-2026 03:46:17 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-2c9294a-matronatacion.jpg?signature=1Ak0tZOPNdF4GQ6Lfo80A",
+  "text": "Centro Acuático y Deportivo Atlántida\n\"Su primer chapuzón\" \nNiños de 4 a 36 meses.\n➤ El trabajo en el agua, la natación, es una agradable actividad para hacer en familia y un gran pasatiempo para la gran mayoría de los niños.\n➤ Es muy recomendable empezar pronto el contacto con el medio acuático para así conseguir seguridad personal en él.\n➤ El mejor momento para iniciarlos es antes de los 2 años ya que aún no aparecen los temores ni el conocimiento de la profundidad.\n➤ El momento más recomendable sería a partir de los 4 meses que es cuando su sistema inmunológico se encuentra mejor desarrollado.\n➤ No establecemos un periodo para cumplir objetivos.\n➤ Respetamos los tiempos de cada niño/a, ya que cada bebé tiene su nivel de aprendizaje, debido a que las características psicológicas y físicas son diferentes en cada chico; por lo tanto no los forzamos.",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n**\"Su primer chapuzón\"**\n\n**Niños de 4 a 36 meses.**\n\n➤ El trabajo en el agua, la natación, es una agradable actividad para hacer en familia y un gran pasatiempo para la gran mayoría de  los niños.  \n\n➤ Es muy recomendable empezar pronto el contacto con el medio acuático para así conseguir seguridad personal en él.\n\n➤ El mejor momento para iniciarlos es antes de los 2 años ya que aún no aparecen los temores ni el conocimiento de la profundidad.\n\n➤ El momento más recomendable sería a partir de los 4 meses que es cuando su sistema inmunológico se encuentra mejor desarrollado.\n\n➤ No establecemos un periodo para cumplir objetivos.\n\n➤ Respetamos los tiempos de cada niño/a, ya que cada bebé tiene su nivel de aprendizaje, debido a que las características psicológicas y físicas son diferentes en cada chico; por lo tanto no los forzamos.\n\n![](https://www.cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/3-a12-anos",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/3-a12-anos",
+    "loadedTime": "2026-02-04T03:46:36.314Z",
+    "referrerUrl": "https://cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 10958,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy/3-a12-anos",
+    "title": "3 a 12 años | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "3 a 12 años | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/3-a12-anos"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:17 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10958",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:46:17 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=94",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-ea4c643-3-a12-anos.jpg?signature=1euc3sAPturCI2j9vPSDj",
+  "text": "",
+  "markdown": "3 a 12 años | Centro Acuático y Deportivo Atlántida\n\n![](/web/image/2508/CADA3_Landing_Horarios_Nin%CC%83os.png)  \n\n#   [![](/web/image/2506/Descargar_PDF.png)](https://mcusercontent.com/ed22891a0a2df51482f4e0c03/files/17e7290c-3a83-b1f7-421d-5bcfa7570936/CADA_Horarios_2025_Nin_os.pdf)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png",
+    "depth": 3,
+    "referrerUrl": "https://www.cada.com.uy/matronatacion",
+    "loadedTime": "2026-02-04T03:46:39.287Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 198966,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2523/CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "CADA%20%20Horarios%202025%20-%20Matronatacio%CC%81n.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-fcfc5e9-CADA2020Horarios20202520-20MatronatacioCC81n.png?signature=pAvIwmCExyqxduI3esYh"
+},
+{
+  "url": "https://www.cada.com.uy/rse",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/rse",
+    "loadedTime": "2026-02-04T03:46:39.619Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 11391,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/rse",
+    "title": "Responsabilidad Social | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Responsabilidad Social | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/rse"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "content-length": "11391",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 04 Feb 2026 03:46:39 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "set-cookie": "session_id=5aab5a0e68ae631b3d42367d6da36eca0a7859fa; Expires=Tue, 05-May-2026 03:46:39 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Responsabilidad Social | Centro Acuático y Deportivo Atlántida\nDeporte, Comunidad y Sostenibilidad.",
+  "markdown": "# Responsabilidad Social | Centro Acuático y Deportivo Atlántida\n\n## Deporte, Comunidad y Sostenibilidad.\n\n## ![](https://www.cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/ubicacion",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/ubicacion",
+    "loadedTime": "2026-02-04T03:46:39.646Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 11734,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/ubicacion",
+    "title": "Ubicación | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Ubicación | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/ubicacion"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "content-length": "11734",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 04 Feb 2026 03:46:39 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "set-cookie": "session_id=cf7cad798d56c813dc7b645e3136e9fdefab0fa1; Expires=Tue, 05-May-2026 03:46:39 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Centro Acuático y Deportivo Atlántida\nUbicación \nGoya esq Av. Pinares - Atlántida",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Ubicación\n\n## Goya esq Av. Pinares - Atlántida",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/actividades",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:46:39.817Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 15317,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/actividades",
+    "title": "Actividades | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Actividades | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/actividades"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "content-length": "15317",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 04 Feb 2026 03:46:39 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "set-cookie": "session_id=6d3732013d842ba1d9a8c3f9bec2d01c9d82a768; Expires=Tue, 05-May-2026 03:46:39 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Centro Acuático y Deportivo Atlántida\nActividades & Horarios \nPlanes disponibles: Integral, Agua, Tierra & Matro",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Actividades & Horarios\n\n## **Planes disponibles: Integral, Agua, Tierra & Matro**",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/rse",
+    "loadedTime": "2026-02-04T03:46:40.510Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 117815,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2488/CADA%20Responsabilidad%20Social.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "CADA%20Responsabilidad%20Social.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-ba19013-CADA20Responsabilidad20Social.png?signature=13BKFiBZ633RhrSxMZgWq"
+},
+{
+  "url": "https://www.cada.com.uy/coloniadeverano",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:46:40.722Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 12162,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/coloniadeverano",
+    "title": "Colonia de Verano | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Colonia de Verano | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/coloniadeverano"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "content-length": "12162",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 04 Feb 2026 03:46:40 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "set-cookie": "session_id=ed4c77bfdc4b8eb913e356a806f5a0b979543489; Expires=Tue, 05-May-2026 03:46:40 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "",
+  "markdown": "Colonia de Verano | Centro Acuático y Deportivo Atlántida\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)[](https://wa.me/59899958210)[](https://wa.me/59899958210)![](/web/image/2714/Colonia%20de%20Verano%20WEB.png)  \n  \n[![](/web/image/2613/InscripcionesAQUI%CC%81.png)](https://forms.gle/TWK5JYWr6AaYUG4D6)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)[![](/web/image/2611/WappAQUI%CC%81.png)](https://wa.me/59899191792)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)  \n[  \n](https://wa.me/59899958210)[  \n](https://wa.me/59899958210)[](https://forms.gle/uoWxE3pbWnRv31xc8)[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)  \n[  \n](https://wa.me/59899958210)",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2541/Ubicacio%CC%81n_Aqui%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2541/Ubicacio%CC%81n_Aqui%CC%81.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/ubicacion",
+    "loadedTime": "2026-02-04T03:46:41.010Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 5689,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2541/Ubicacio%CC%81n_Aqui%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Ubicacio%CC%81n_Aqui%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-25b5aaf-UbicacioCC81n_AquiCC81.png?signature=1uVXFiHwQuIUb1HoVbIzw"
+},
+{
+  "url": "https://www.cada.com.uy/web/login",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/login",
+    "loadedTime": "2026-02-04T03:46:40.926Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 11442,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/web/login",
+    "title": "Login | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Login | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/login"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "content-length": "11442",
+      "content-type": "text/html; charset=utf-8",
+      "date": "Wed, 04 Feb 2026 03:46:40 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "set-cookie": "session_id=7c66ae7382978102c804aa1147f85efd0de666ce; Expires=Tue, 05-May-2026 03:46:40 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "x-frame-options": "DENY"
+    }
+  },
+  "screenshotUrl": null,
+  "text": "Centro Acuático y Deportivo Atlántida\nUsuario \nContraseña",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\nUsuario\n\nContraseña",
+  "debug": {
+    "requestHandlerMode": "http"
+  }
+},
+{
+  "url": "https://cada.com.uy/web/image/2508/CADA3_Landing_Horarios_Nin%CC%83os.png",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy/web/image/2508/CADA3_Landing_Horarios_Nin%CC%83os.png",
+    "depth": 3,
+    "referrerUrl": "https://cada.com.uy/3-a12-anos",
+    "loadedTime": "2026-02-04T03:46:41.313Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 207765,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://cada.com.uy/web/image/2508/CADA3_Landing_Horarios_Nin%CC%83os.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "CADA3_Landing_Horarios_Nin%CC%83os.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-c162e46-CADA3_Landing_Horarios_NinCC83os.png?signature=14rpho3CyIfpVpZVwfxTA"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2604/A%26HAdultos.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2604/A%26HAdultos.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:46:41.408Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 19229,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2604/A%26HAdultos.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A%26HAdultos.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-87c3967-A26HAdultos.png?signature=WczuTu8NNezasxv3kXnV"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2539/Ubicacio%CC%81n.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2539/Ubicacio%CC%81n.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/ubicacion",
+    "loadedTime": "2026-02-04T03:46:41.617Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 327113,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2539/Ubicacio%CC%81n.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Ubicacio%CC%81n.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-fad272c-UbicacioCC81n.png?signature=3BDpVHrxUzjwGnYlL88U"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2602/A%26HAdolescentes.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2602/A%26HAdolescentes.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:46:41.663Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 19971,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2602/A%26HAdolescentes.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A%26HAdolescentes.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-e404c31-A26HAdolescentes.png?signature=yNt4DzDREG0V3bBffMdt"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2600/A&HNin%CC%83os.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2600/A&HNin%CC%83os.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:46:41.766Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 19679,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2600/A&HNin%CC%83os.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A&HNin%CC%83os.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-ac4a9e7-AHNinCC83os.png?signature=kZcWjlQtyyYyvzHSeoxW"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2598/A%26HMatro.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2598/A%26HMatro.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:46:41.960Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 14340,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2598/A%26HMatro.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "A%26HMatro.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-9b75255-A26HMatro.png?signature=JKUCp9kkSXPf6DAMcC6o"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2615/PreciosAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2615/PreciosAQUI%CC%81.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/actividades",
+    "loadedTime": "2026-02-04T03:46:41.994Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 5320,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2615/PreciosAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "PreciosAQUI%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-c015717-PreciosAQUICC81.png?signature=1mDkMBRcYJlw6Og7vU6Qq"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:46:42.283Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 6153,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2613/InscripcionesAQUI%CC%81.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "InscripcionesAQUI%CC%81.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-65d8180-InscripcionesAQUICC81.png?signature=Er0bMhV8oOfjbZepiHcX"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/coloniadeverano",
+    "loadedTime": "2026-02-04T03:46:44.451Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 923154,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2714/Colonia%20de%20Verano%20WEB.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Colonia%20de%20Verano%20WEB.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-627ea2f-Colonia20de20Verano20WEB.png?signature=rkJNzRICmecFcAMv3tAz"
+},
+{
+  "url": "https://cada.com.uy//coloniadeverano",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy//coloniadeverano#",
+    "loadedTime": "2026-02-04T03:46:42.554Z",
+    "referrerUrl": "http://www.cada.com.uy/coloniadeverano",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 12162,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy//coloniadeverano#",
+    "title": "Colonia de Verano | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Colonia de Verano | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/coloniadeverano"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:23 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "12162",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:46:23 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-c9c523a-coloniadeverano.jpg?signature=esuB3kT9T1K3t8MIetuX",
+  "text": "",
+  "markdown": "Colonia de Verano | Centro Acuático y Deportivo Atlántida\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[](https://docs.google.com/forms/d/1zTnwYRU4lvzdLkcxy11n7RhYgSOlwoXwrfxsUJ1iDVc/edit)\n\n[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)[](https://wa.me/59899958210)[](https://wa.me/59899958210)![](/web/image/2714/Colonia%20de%20Verano%20WEB.png)  \n  \n[![](/web/image/2613/InscripcionesAQUI%CC%81.png)](https://forms.gle/TWK5JYWr6AaYUG4D6)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)[![](/web/image/2611/WappAQUI%CC%81.png)](https://wa.me/59899191792)[  \n](https://forms.gle/TWK5JYWr6AaYUG4D6)  \n[  \n](https://wa.me/59899958210)[  \n](https://wa.me/59899958210)[](https://forms.gle/uoWxE3pbWnRv31xc8)[  \n](https://forms.gle/uoWxE3pbWnRv31xc8)  \n[  \n](https://wa.me/59899958210)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy//",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy//#",
+    "loadedTime": "2026-02-04T03:46:42.832Z",
+    "referrerUrl": "http://www.cada.com.uy/",
+    "httpStatusCode": 200,
+    "depth": 2,
+    "contentLengthBytes": 10361,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy//#",
+    "title": "Home | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Home | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:23 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10361",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:46:23 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=93",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-ab117f2-.jpg?signature=2KVLhD95nzvD8XmafVPr",
+  "text": "",
+  "markdown": "Home | Centro Acuático y Deportivo Atlántida\n\n[![](/web/image/2382/Colonia2.png)](http://www.cada.com.uy/coloniadeverano)[](http://www.cada.com.uy/)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://cada.com.uy/contactus",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy//contactos",
+    "loadedTime": "2026-02-04T03:46:45.603Z",
+    "referrerUrl": "https://cada.com.uy/6-a-9-anos",
+    "httpStatusCode": 404,
+    "depth": 3,
+    "contentLengthBytes": 10706,
+    "contentType": "text/html;charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy//contactos",
+    "title": "404 | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "404 | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/contactos"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:26 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html;charset=utf-8",
+      "content-length": "10706",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:46:26 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-cc9b99f-contactus.jpg?signature=qPNhXUoObaHnpfd74vgx",
+  "text": "Centro Acuático y Deportivo Atlántida\n404: ¡Página no encontrada!\nNo se puede encontrar la página que está buscando; es posible que haya escrito la dirección de manera incorrecta, pero probablemente puede haber sido eliminada debido a la reciente reorganización del sitio. \n¿Tal vez buscaba una de estas página populares?\nPágina de inicio\nContáctenos",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## 404: ¡Página no encontrada!\n\nNo se puede encontrar la página que está buscando; es posible que haya escrito la dirección de manera incorrecta, pero probablemente puede haber sido eliminada debido a la reciente reorganización del sitio.\n\n¿Tal vez buscaba una de estas página populares?\n\n*   [Página de inicio](https://cada.com.uy/)\n*   [Contáctenos](https://cada.com.uy/contactus)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/historia",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:46:47.659Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 19319,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/historia",
+    "title": "Historia | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Historia | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/historia"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:29 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "19319",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=c514242509611f002fd9732942a525dd7c864e95; Expires=Tue, 05-May-2026 03:46:29 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=100",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-cf99d2d-historia.jpg?signature=jX5m0LblHRIF2l6UkJCh",
+  "text": "Centro Acuático y Deportivo Atlántida\nHistoria de CADA \nTres amigos, un sueño compartido. \nEl Centro Acuático y Deportivo Atlántida (CADA) nació del sueño compartido de tres amigos, guardavidas y profesores de educación física que se conocieron en su etapa de formación.\nUn proyecto que comenzó a gestarse hace más de 30 años y que se hizo realidad el 18 de marzo de 2024, con la fundación de un espacio pensado para transformar la vida de las personas a través del deporte, la salud y la educación.\nHoy, CADA es el primer Centro de actividades acuáticas, deportivas y terapéuticas de Atlántida, creado con el propósito de mejorar la calidad de vida de la comunidad de la Costa de Oro.\nOfrecemos propuestas para todas las edades y familias, integrando programas que promueven el bienestar físico, mental y social en un entorno de confianza, cercanía y profesionalismo.\nInstalaciones \nDiseñado para brindar una experiencia integral, CADA cuenta con infraestructura moderna y funcional, que combina tecnología, confort y naturaleza:\nPiscina semiolímpica de 25 metros, ideal para la enseñanza, el entrenamiento y la competencia.\nPiscina terapéutica climatizada de 9 x 9 metros, especialmente pensada para rehabilitación y programas de salud.\nVestuarios para niños y adultos, cómodos, seguros y equipados para el uso familiar.\nClínica especializada en Fisioterapia, una de las más modernas de la Costa de Oro, con un equipo multidisciplinario y equipamiento de última generación.\nCanchas deportivas para múltiples disciplinas.\nPista de running con entorno natural.\nGimnasio Outdoor, pensado para quienes disfrutan entrenar al aire libre.\nCada espacio fue diseñado para integrar deporte, salud y bienestar, en un ambiente seguro, accesible y comunitario.\nNuestra Misión \nBrindar bienestar, salud y comunidad.\nEn CADA trabajamos para ofrecer un espacio integral donde la actividad física, la educación y la terapia se combinan para acompañar a cada persona en su desarrollo.\nNuestro compromiso es mejorar la calidad de vida de quienes nos eligen, fomentando hábitos saludables y experiencias significativas para todas las edades.\nNuestra Visión \nSer un referente en la Costa de Oro y en todo Uruguay por la calidad de nuestros servicios, la innovación de nuestras propuestas y el impacto positivo en la comunidad.\nAspiramos a consolidarnos como un centro modelo en salud, deporte y bienestar, reconocido por su excelencia, su equipo humano y su contribución al desarrollo integral de las personas.\nNuestros Valores \nEn CADA creemos que cada acción cuenta. Por eso, nuestros valores guían todo lo que hacemos:\nCompromiso \nCon nuestra comunidad, con la salud y con la mejora continua.\nProfesionalismo \nEn cada servicio, programa y relación humana.\nInclusión \nPromovemos un espacio abierto y accesible para todas las edades y condiciones.\nRespeto \nPor las personas, el entorno, la diversidad y el trabajo en equipo.\nPasión \nPor el deporte, la educación y el bienestar de quienes nos rodean.\nInnovación \nBuscamos permanentemente nuevas formas de crecer y mejorar la experiencia de nuestros socios.",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## Historia de CADA\n\n## Tres amigos, un sueño compartido. \n\nEl **Centro Acuático y Deportivo Atlántida (CADA)** nació del sueño compartido de tres amigos, guardavidas y profesores de educación física que se conocieron en su etapa de formación.  \nUn proyecto que comenzó a gestarse hace más de **30 años** y que se hizo realidad el **18 de marzo de 2024**, con la fundación de un espacio pensado para transformar la vida de las personas a través del deporte, la salud y la educación.\n\nHoy, CADA es el **primer Centro de actividades acuáticas, deportivas y terapéuticas de Atlántida**, creado con el propósito de **mejorar la calidad de vida de la comunidad de la Costa de Oro**.  \nOfrecemos propuestas para todas las edades y familias, integrando programas que promueven el bienestar físico, mental y social en un entorno de confianza, cercanía y profesionalismo.\n\n![Odoo • Texto e imagen](https://www.cada.com.uy/web/image/2319/1.png)\n\n![Odoo • Imagen y texto](https://www.cada.com.uy/web/image/2321/2.png)\n\n## Instalaciones\n\nDiseñado para brindar una experiencia integral, **CADA cuenta con infraestructura moderna y funcional**, que combina tecnología, confort y naturaleza:\n\n*   **Piscina semiolímpica de 25 metros**, ideal para la enseñanza, el entrenamiento y la competencia.\n    \n*   **Piscina terapéutica climatizada de 9 x 9 metros**, especialmente pensada para rehabilitación y programas de salud.\n    \n*   **Vestuarios para niños y adultos**, cómodos, seguros y equipados para el uso familiar.\n    \n*   **Clínica especializada en Fisioterapia**, una de las más modernas de la Costa de Oro, con un equipo multidisciplinario y equipamiento de última generación.\n    \n*   **Canchas deportivas** para múltiples disciplinas.\n    \n*   **Pista de running** con entorno natural.\n    \n*   **Gimnasio Outdoor**, pensado para quienes disfrutan entrenar al aire libre.\n    \n\nCada espacio fue diseñado para **integrar deporte, salud y bienestar**, en un ambiente seguro, accesible y comunitario.\n\n## **Nuestra Misión**\n\n**Brindar bienestar, salud y comunidad.**  \nEn CADA trabajamos para ofrecer un espacio integral donde la actividad física, la educación y la terapia se combinan para acompañar a cada persona en su desarrollo.  \nNuestro compromiso es **mejorar la calidad de vida** de quienes nos eligen, fomentando hábitos saludables y experiencias significativas para todas las edades.\n\n* * *\n\n## Nuestra Visión\n\nSer un **referente en la Costa de Oro y en todo Uruguay** por la calidad de nuestros servicios, la innovación de nuestras propuestas y el impacto positivo en la comunidad.  \nAspiramos a consolidarnos como un **centro modelo en salud, deporte y bienestar**, reconocido por su excelencia, su equipo humano y su contribución al desarrollo integral de las personas.\n\n* * *\n\n## Nuestros Valores\n\nEn CADA creemos que cada acción cuenta. Por eso, nuestros valores guían todo lo que hacemos:\n\n### Compromiso\n\nCon nuestra comunidad, con la salud y con la mejora continua.\n\n### Profesionalismo\n\nEn cada servicio, programa y relación humana.\n\n### Inclusión\n\nPromovemos un espacio abierto y accesible para todas las edades y condiciones.\n\n### Respeto\n\nPor las personas, el entorno, la diversidad y el trabajo en equipo.\n\n### Pasión\n\nPor el deporte, la educación y el bienestar de quienes nos rodean.\n\n### Innovación\n\nBuscamos permanentemente nuevas formas de crecer y mejorar la experiencia de nuestros socios.\n\n![Odoo • Texto e imagen](https://www.cada.com.uy/web/image/2323/3.png)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/instalaciones",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:46:47.922Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 25696,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/instalaciones",
+    "title": "Instalaciones | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Instalaciones | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/instalaciones"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:28 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "25696",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=c514242509611f002fd9732942a525dd7c864e95; Expires=Tue, 05-May-2026 03:46:28 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=98",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-83cdc06-instalaciones.jpg?signature=tgtVoYOiMi8TXpUbBL9k",
+  "text": "Centro Acuático y Deportivo Atlántida\nNuestras instalaciones \nPiscinas \nPiscina semiolímpica (25 mts)\nNuestra piscina semiolímpica de 25 metros fue diseñada para brindar una experiencia acuática completa, adaptada tanto a quienes desean aprender a nadar, mejorar su condición física, o perfeccionar su técnica competitiva.\nCon medidas oficiales y seis amplios andariveles, ofrece el entorno ideal para el entrenamiento, la enseñanza y la práctica libre, en un ambiente seguro, dinámico y motivador.\nUn espacio pensado para disfrutar del agua, entrenar con propósito y superar tus propios límites.\nDonde cada brazada cuenta y te acerca a tu mejor versión. \nPiscina terapéutica (9 x 9 mts)\nNuestra piscina terapéutica de 9 x 9 metros fue especialmente diseñada para promover la rehabilitación física, la relajación y el bienestar integral.\nEl agua climatizada a la temperatura óptima para la hidroterapia y los chorros de masaje permiten realizar tratamientos que alivian dolencias musculares y articulares, mejoran la circulación y reducen el estrés físico y mental.\nBajo la conducción de nuestros fisioterapeutas especializados, se desarrollan programas terapéuticos personalizados adaptados a las necesidades de cada persona: desde procesos de rehabilitación post-lesión hasta entrenamientos acuáticos de bajo impacto orientados a la movilidad, fuerza, equilibrio y relajación.\nUn entorno seguro, cálido y profesional para recuperar tu bienestar, disfrutar del movimiento y cuidar tu salud.\nEl agua como aliada de tu recuperación. \nVestuarios \nVestuarios para adultos y niños\nNuestros vestuarios han sido diseñados para ofrecer la máxima comodidad, funcionalidad y privacidad a todas las personas que disfrutan de las actividades en nuestro centro.\nContamos con instalaciones separadas para adultos y niños, pensadas para garantizar un entorno seguro, confortable y adecuado para cada edad.\nCada vestuario dispone de duchas amplias, lockers individuales y áreas cómodas para cambiarse, asegurando una experiencia práctica, higiénica y agradable antes y después de cada actividad.\nEn cada detalle, buscamos que tu paso por nuestras instalaciones sea tan cómodo y placentero como tu entrenamiento.\nComodidad, seguridad y bienestar en cada visita. \nLa Clínica de Fisioterapia \nLa Clínica\nNuestra Clínica de Fisioterapia representa la vanguardia en el cuidado, prevención y recuperación física . \nIntegramos tecnología de última generación , un equipo interdisciplinario de fisioterapeutas altamente calificados y un enfoque centrado en la persona, para brindar soluciones efectivas y personalizadas. \nAtendemos una amplia gama de necesidades: desde lesiones deportivas y dolencias musculares hasta procesos de rehabilitación y readaptación funcional. Cada tratamiento se diseña a medida, con una atención cálida, profesional y orientada a restaurar la movilidad, reducir el dolor y mejorar la calidad de vida.\nCuidamos de tu cuerpo. Potenciamos tu bienestar. \nCanchas, gimnasio y pista de running. \nOutdoor: canchas, gimnasio y pista.\nEn nuestras instalaciones outdoor encontrarás el entorno perfecto para vivir el deporte al aire libre en su máxima expresión.\nContamos con amplias canchas y áreas verdes diseñadas para la práctica de fútbol, vóleibol y diversas actividades recreativas, en un ambiente natural, seguro y dinámico. Es el lugar ideal para entrenar, competir o simplemente disfrutar del movimiento y la naturaleza.\nAdemás, disponemos de un gimnasio outdoor totalmente equipado, donde ofrecemos entrenamientos dirigidos y programas personalizados adaptados a cada nivel y objetivo. Nuestros profesionales te acompañan en cada sesión para que alcances tu mejor versión, combinando fuerza, resistencia y bienestar al aire libre.\nCompletando la experiencia, nuestra pista de running permite realizar entrenamientos cardiovasculares o prácticas de running y caminatas en un entorno natural, rodeado de aire puro y energía positiva.\nViví el deporte, el bienestar y la libertad de entrenar al aire libre. \n¡Tu diversión y/o entrenamiento empiezan aquí!",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## **Nuestras instalaciones**\n\n## **Piscinas**\n\n![Odoo • Imagen y texto](https://www.cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg)\n\n## Piscina semiolímpica (25 mts)\n\nNuestra **piscina semiolímpica** de **25 metros** fue diseñada para brindar una **experiencia acuática completa**, adaptada tanto a quienes desean **aprender a nadar**, mejorar su **condición física**, o perfeccionar su **técnica competitiva**.\n\nCon **medidas oficiales** y **seis amplios andariveles**, ofrece el entorno ideal para el **entrenamiento, la enseñanza y la práctica libre**, en un ambiente seguro, dinámico y motivador.\n\nUn espacio pensado para **disfrutar del agua, entrenar con propósito y superar tus propios límites**.\n\n**Donde cada brazada cuenta y te acerca a tu mejor versión.**\n\n![Odoo • Imagen y texto](https://www.cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg)\n\n## Piscina terapéutica (9 x 9 mts)\n\nNuestra **piscina terapéutica** de **9 x 9 metros** fue especialmente diseñada para promover la **rehabilitación física, la relajación y el bienestar integral**.\n\nEl agua climatizada a la **temperatura óptima para la hidroterapia** y los **chorros de masaje** permiten realizar tratamientos que alivian dolencias musculares y articulares, mejoran la circulación y reducen el estrés físico y mental.\n\nBajo la conducción de nuestros **fisioterapeutas especializados**, se desarrollan **programas terapéuticos personalizados** adaptados a las necesidades de cada persona: desde procesos de **rehabilitación post-lesión** hasta **entrenamientos acuáticos de bajo impacto** orientados a la **movilidad, fuerza, equilibrio y relajación**.\n\nUn entorno seguro, cálido y profesional para **recuperar tu bienestar, disfrutar del movimiento y cuidar tu salud**.\n\n**El agua como aliada de tu recuperación.**\n\n## Vestuarios\n\n![Odoo • Imagen y texto](https://www.cada.com.uy/web/image/539/Vestuarios.png)\n\n## Vestuarios para adultos y niños\n\nNuestros **vestuarios** han sido diseñados para ofrecer la **máxima comodidad, funcionalidad y privacidad** a todas las personas que disfrutan de las actividades en nuestro centro.\n\nContamos con **instalaciones separadas para adultos y niños**, pensadas para garantizar un **entorno seguro, confortable y adecuado para cada edad**.\n\nCada vestuario dispone de **duchas amplias, lockers individuales y áreas cómodas para cambiarse**, asegurando una experiencia práctica, higiénica y agradable antes y después de cada actividad.\n\nEn cada detalle, buscamos que tu paso por nuestras instalaciones sea **tan cómodo y placentero como tu entrenamiento.**\n\n**Comodidad, seguridad y bienestar en cada visita.**\n\n## La Clínica de Fisioterapia\n\n![Odoo • Imagen y texto](https://www.cada.com.uy/web/image/928/IMG_8469.jpeg)\n\n## La Clínica\n\nNuestra **Clínica de Fisioterapia** representa la **vanguardia en el cuidado, prevención y recuperación física** .\n\nIntegramos **tecnología de última generación** , un **equipo interdisciplinario de fisioterapeutas altamente calificados** y un enfoque centrado en la persona, para brindar soluciones efectivas y personalizadas.\n\nAtendemos una amplia gama de necesidades: desde **lesiones deportivas** y **dolencias musculares** hasta **procesos de rehabilitación y readaptación funcional**. Cada tratamiento se diseña a medida, con una atención cálida, profesional y orientada a **restaurar la movilidad, reducir el dolor y mejorar la calidad de vida**.\n\n**Cuidamos de tu cuerpo. Potenciamos tu bienestar.**\n\n## Canchas, gimnasio y pista de running.\n\n![Odoo • Imagen y texto](https://www.cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png)\n\n## Outdoor: canchas, gimnasio y pista.\n\nEn nuestras instalaciones **outdoor** encontrarás el entorno perfecto para vivir el deporte al aire libre en su máxima expresión.\n\nContamos con **amplias canchas y áreas verdes** diseñadas para la práctica de **fútbol, vóleibol y diversas actividades recreativas**, en un ambiente natural, seguro y dinámico. Es el lugar ideal para entrenar, competir o simplemente disfrutar del movimiento y la naturaleza.\n\nAdemás, disponemos de un **gimnasio outdoor** totalmente equipado, donde ofrecemos **entrenamientos dirigidos** y **programas personalizados** adaptados a cada nivel y objetivo. Nuestros profesionales te acompañan en cada sesión para que alcances tu mejor versión, combinando fuerza, resistencia y bienestar al aire libre.\n\nCompletando la experiencia, nuestra **pista de running** permite realizar entrenamientos cardiovasculares o prácticas de running y caminatas en un entorno natural, rodeado de aire puro y energía positiva.\n\nViví el deporte, el bienestar y la libertad de entrenar al aire libre.\n\n****¡Tu diversión y/o entrenamiento empiezan aquí!****\n\n##  [![](https://www.cada.com.uy/web/image/2609/Wapp.png)](https://wa.me/59899943270)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2323/3.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2323/3.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:46:51.843Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 400219,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2323/3.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "3.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-7522103-3.png?signature=EsYYDWcoJXrb01WudQ8j"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:46:52.452Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 255333,
+    "contentType": "image/jpeg"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/1066/PHOTO-2024-03-23-07-26-10%202.jpg",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "PHOTO-2024-03-23-07-26-10%202.jpg"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-127dff9-PHOTO-2024-03-23-07-26-10202.jpg?signature=eCLQza9W8OiHargARMDp"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2321/2.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2321/2.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:46:52.800Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 443008,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2321/2.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "2.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-1d7eab6-2.png?signature=1kfvexG5QN6tphrWMoOtV"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:46:53.886Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 578586,
+    "contentType": "image/jpeg"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/932/PHOTO-2024-03-28-12-29-07.jpg",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "PHOTO-2024-03-28-12-29-07.jpg"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-2c314ae-PHOTO-2024-03-28-12-29-07.jpg?signature=A0ODzrcpqGvsAKT7unPv"
+},
+{
+  "url": "https://www.cada.com.uy/",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/",
+    "loadedTime": "2026-02-04T03:46:51.468Z",
+    "referrerUrl": "https://www.cada.com.uy/precios",
+    "httpStatusCode": 200,
+    "depth": 3,
+    "contentLengthBytes": 10361,
+    "contentType": "text/html; charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://www.cada.com.uy/",
+    "title": "Home | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "Home | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:27 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html; charset=utf-8",
+      "content-length": "10361",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=c514242509611f002fd9732942a525dd7c864e95; Expires=Tue, 05-May-2026 03:46:27 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=98",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-27e264f-.jpg?signature=1d01hBaIIaljYbMr0LHeR",
+  "text": "",
+  "markdown": "Home | Centro Acuático y Deportivo Atlántida\n\n[![](/web/image/2382/Colonia2.png)](http://www.cada.com.uy/coloniadeverano)[](http://www.cada.com.uy/)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+},
+{
+  "url": "https://www.cada.com.uy/web/image/928/IMG_8469.jpeg",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/928/IMG_8469.jpeg",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:46:56.168Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 686645,
+    "contentType": "image/jpeg"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/928/IMG_8469.jpeg",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "IMG_8469.jpeg"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-ce8de4e-IMG_8469.jpeg?signature=1AayovL5BnjD18KBAn2ji"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2319/1.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2319/1.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/historia",
+    "loadedTime": "2026-02-04T03:46:57.391Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 869031,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2319/1.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "1.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-1b7a0a4-1.png?signature=waAYUG2SSXeCzpOvnwlv"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2609/Wapp.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2609/Wapp.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:46:57.714Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 8059,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2609/Wapp.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Wapp.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-332a387-Wapp.png?signature=VU2bUDSEWwGxYQ0rH45t"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:46:58.345Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 528121,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2336/Copia%20de%20CADA%20Actividades%20y%20Servicios.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Copia%20de%20CADA%20Actividades%20y%20Servicios.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-a32985a-Copia20de20CADA20Actividades20y20Servicios.png?signature=oVMnaQoOy0M5eVoVCloc"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/2382/Colonia2.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/2382/Colonia2.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/",
+    "loadedTime": "2026-02-04T03:46:59.545Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 250450,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/2382/Colonia2.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Colonia2.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-473410f-Colonia2.png?signature=1kQivpwMuKEjw1RC521fh"
+},
+{
+  "url": "https://www.cada.com.uy/web/image/539/Vestuarios.png",
+  "crawl": {
+    "loadedUrl": "https://www.cada.com.uy/web/image/539/Vestuarios.png",
+    "depth": 4,
+    "referrerUrl": "https://www.cada.com.uy/instalaciones",
+    "loadedTime": "2026-02-04T03:46:59.727Z",
+    "httpStatusCode": 200,
+    "contentLengthBytes": 1379111,
+    "contentType": "image/png"
+  },
+  "html": null,
+  "htmlUrl": null,
+  "text": null,
+  "markdown": null,
+  "metadata": {
+    "author": null,
+    "canonicalUrl": "https://www.cada.com.uy/web/image/539/Vestuarios.png",
+    "description": null,
+    "keywords": null,
+    "languageCode": null,
+    "title": "Vestuarios.png"
+  },
+  "screenshotUrl": null,
+  "fileUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/file-854f3f7-Vestuarios.png?signature=vT2g2njBYlynqdaN2tw5"
+},
+{
+  "url": "https://cada.com.uy//contactos",
+  "crawl": {
+    "loadedUrl": "https://cada.com.uy//contactos#",
+    "loadedTime": "2026-02-04T03:47:04.729Z",
+    "referrerUrl": "https://cada.com.uy/contactus",
+    "httpStatusCode": 404,
+    "depth": 4,
+    "contentLengthBytes": 10706,
+    "contentType": "text/html;charset=utf-8"
+  },
+  "metadata": {
+    "canonicalUrl": "https://cada.com.uy//contactos#",
+    "title": "404 | Centro Acuático y Deportivo Atlántida",
+    "description": null,
+    "author": null,
+    "keywords": null,
+    "languageCode": "es-UY",
+    "openGraph": [
+      {
+        "property": "og:type",
+        "content": "website"
+      },
+      {
+        "property": "og:title",
+        "content": "404 | Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:site_name",
+        "content": "Centro Acuático y Deportivo Atlántida"
+      },
+      {
+        "property": "og:url",
+        "content": "http://sitio149550.p14.mvdsimple.uy/contactos"
+      },
+      {
+        "property": "og:image",
+        "content": "http://sitio149550.p14.mvdsimple.uy/web/image/website/1/social_default_image"
+      }
+    ],
+    "jsonLd": null,
+    "headers": {
+      "date": "Wed, 04 Feb 2026 03:46:50 GMT",
+      "server": "Werkzeug/0.11.15 Python/3.6.12",
+      "content-type": "text/html;charset=utf-8",
+      "content-length": "10706",
+      "via": "1.1 sitio149550.p14.mvdsimple.uy",
+      "set-cookie": "session_id=96a3a2d888ba363d607380e67c26ab0aedbdc588; Expires=Tue, 05-May-2026 03:46:50 GMT; Max-Age=7776000; HttpOnly; Path=/;SameSite=None;Secure",
+      "keep-alive": "timeout=5, max=96",
+      "connection": "Keep-Alive"
+    }
+  },
+  "screenshotUrl": "https://api.apify.com/v2/key-value-stores/42jv0kidoyB56wMiv/records/screenshot-f0fd364-contactos.jpg?signature=PhOD7e6m421xVd6fWfhL",
+  "text": "Centro Acuático y Deportivo Atlántida\n404: ¡Página no encontrada!\nNo se puede encontrar la página que está buscando; es posible que haya escrito la dirección de manera incorrecta, pero probablemente puede haber sido eliminada debido a la reciente reorganización del sitio. \n¿Tal vez buscaba una de estas página populares?\nPágina de inicio\nContáctenos",
+  "markdown": "# Centro Acuático y Deportivo Atlántida\n\n## 404: ¡Página no encontrada!\n\nNo se puede encontrar la página que está buscando; es posible que haya escrito la dirección de manera incorrecta, pero probablemente puede haber sido eliminada debido a la reciente reorganización del sitio.\n\n¿Tal vez buscaba una de estas página populares?\n\n*   [Página de inicio](https://cada.com.uy/)\n*   [Contáctenos](https://cada.com.uy/contactus)",
+  "debug": {
+    "requestHandlerMode": "browser"
+  }
+}]
